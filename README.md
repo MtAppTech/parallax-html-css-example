@@ -1,7 +1,4 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
-
-# Project-01 : Parallax Website (HC-03)
+# Project-01 : Parallax Website 
 
 ## Description
 Project aims to create parallax website.
@@ -29,7 +26,7 @@ Project aims to create parallax website.
 
 ## Objective
 
-Build a Landing that is functionally similar to this: [Parallax Website](https://mark-mad.github.io/parallax-website/)
+Build a Landing that is functionally similar to this: [Parallax Website](https://mtapptech.de/ders/1/)
 
 ### At the end of the project, following topics are to be covered;
 
